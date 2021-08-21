@@ -5,3 +5,4 @@ Deno.test("add42(0) is 42", () => {
   const result = add42(0);
   assertEquals(result, 42);
 });
+
